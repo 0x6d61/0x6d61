@@ -6,9 +6,7 @@
 - 使用言語は
     - Python
     - JavaScript
-    - PHP
     - Rust
-    - Ruby
     - Java
 - オタク  
 
