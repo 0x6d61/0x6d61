@@ -5,7 +5,7 @@
 - 酒好き
 - 使用言語は
     - Python
-    - 
+    - Ocaml
     - Rust
     - Java
 - オタク  
