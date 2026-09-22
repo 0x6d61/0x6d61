@@ -1,13 +1,8 @@
 
 # どうも。[0x6d61](https://twitter.com/0x6d61)です。
 - 日本のソフトウェア開発者
-- 25歳
+- 30歳
 - 酒好き
-- 使用言語は
-    - Python
-    - Go
-    - JavaScript
-    - Java
 - オタク  
 
 # 最近の活動
